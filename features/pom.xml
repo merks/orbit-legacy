@@ -71,7 +71,7 @@ SPDX-License-Identifier: EPL-2.0
 
   <profiles>
     <profile>
-      <id>pack-and-sign</id>
+      <id>sign</id>
       <activation>
         <property>
           <name>PACK_AND_SIGN</name>
